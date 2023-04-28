@@ -1,5 +1,5 @@
 /* **********************************************
-    Dev10 Coding Assessment by Kristi Lavigne 
+    Dev10 Coding Assessment by Kristi LaVigne 
 *********************************************** */
 
 // The range will start at 1 and end at the number given by the user
@@ -41,7 +41,7 @@ function get_number(prompt) {
 
 
 // Each time the user makes a guess the guess will be added to the guesses array 
-// The guess will be checked against the correct numbe and previous guesses, then proceed accordingly
+// The guess will be checked against the correct number and previous guesses, then proceed accordingly
 function do_guess() {
 
     // get the guess and convert it to a number
